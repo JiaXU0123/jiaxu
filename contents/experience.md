@@ -11,6 +11,7 @@ Research Experience -->
 ### **Research Assistant at the Lab of Brain Science and Brain-Inspired Intelligence** 
 
 **Advisor: Prof. Guoyuan Yang**
+
 **October 2023 – June 2025 | BIT**  
 #### Contributions:  
 - CLIP-MSM Oct 2024 – Apr 2025：
