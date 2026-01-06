@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- The Third Prize of the National Undergraduate Mathematics Competition
+- The Third Prize of the National Undergraduate Statistical Modeling Competition
+- The Ruixin Academy Scholarship of Beijing Institute of Technology(2023, 2024, 2025)
