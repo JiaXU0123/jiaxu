@@ -8,9 +8,7 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 #### Education  
 
 **Beijing Institute of Technology**,  Bachelor of Computer Science (2022 – 2026)  
-• GPA: XX/XX
-**Beijing Institute of Technology**,  Bachelor of Computer Science (2022 – 2026)  
-• GPA: XX/XX
+<!-- • GPA: XX/XX -->
 
 #### Research Interests  
-XX, XX, XX, XX.
+Artificial Intelligence , Machine Learning,Multimodal Models, Computer Vision, Generate Models
